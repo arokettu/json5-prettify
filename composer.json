@@ -1,0 +1,7 @@
+{
+    "name": "arokettu/json5-prettify",
+    "require": {
+        "arokettu/json5-builder": "^2.1",
+        "colinodell/json5": "^3.0"
+    }
+}
