@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "90f9160dac49ed59b53b02d4ceb16167",
+    "content-hash": "a08d0326d1627a9920a15a3b4852003e",
     "packages": [
         {
             "name": "arokettu/is-resource",
@@ -69,16 +69,16 @@
         },
         {
             "name": "arokettu/json5-builder",
-            "version": "2.1.0",
+            "version": "2.2.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/arokettu/json5-builder.git",
-                "reference": "17573b792e8e4a9d1ebca1fd7e8c1672a3bb6f14"
+                "reference": "5e0242c7a28a8ff8221ec9639698e2b6fffd1bcf"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/arokettu/json5-builder/zipball/17573b792e8e4a9d1ebca1fd7e8c1672a3bb6f14",
-                "reference": "17573b792e8e4a9d1ebca1fd7e8c1672a3bb6f14",
+                "url": "https://api.github.com/repos/arokettu/json5-builder/zipball/5e0242c7a28a8ff8221ec9639698e2b6fffd1bcf",
+                "reference": "5e0242c7a28a8ff8221ec9639698e2b6fffd1bcf",
                 "shasum": ""
             },
             "require": {
@@ -129,7 +129,7 @@
                 "issues": "https://gitlab.com/sandfox/json5-builder/-/issues",
                 "source": "https://gitlab.com/sandfox/json5-builder"
             },
-            "time": "2025-06-05T23:13:22+00:00"
+            "time": "2025-09-04T05:15:38+00:00"
         },
         {
             "name": "colinodell/json5",

@@ -1,10 +1,11 @@
 {
     "name": "arokettu/json5-prettify",
+    "type": "project",
     "bin": [
         "bin/json5-prettify.php"
     ],
     "require": {
-        "arokettu/json5-builder": "^2.1",
+        "arokettu/json5-builder": "^2.2",
         "colinodell/json5": "^3.0"
     }
 }
